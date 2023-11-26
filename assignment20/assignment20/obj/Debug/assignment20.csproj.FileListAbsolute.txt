@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\bin\Debug\assignment20.exe.config
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\bin\Debug\assignment20.exe
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\bin\Debug\assignment20.pdb
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\obj\Debug\assignment20.csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\obj\Debug\assignment20.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\obj\Debug\assignment20.exe
+C:\Mphasis -B233\AppTwo\Day-15(24-Nov)\Assignment-24th(Nov)\assignment20\assignment20\obj\Debug\assignment20.pdb
